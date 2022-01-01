@@ -17,11 +17,12 @@ module.exports = {
 	async execute(interaction, extras) {
 		if (interaction.options.getSubcommand() === "test") {
 			const player = interaction.options.getString("test");
-			await interaction.reply(`Ok, ${player}`);
+			console.log(await extras.getHistoryPeriods());
+			await interaction.reply(`Ok, ${player}`);			
 		} else if (interaction.options.getSubcommand() === "stats") {
 			const user = interaction.options.getUser("player");			
 			const stats = await extras.statistics(user.id);
-			console.log(stats);
+			//Svara med ett fancy embeded response.. eller en stringifyad json så länge..
 			await interaction.reply(JSON.stringify(stats));
 		} else {
 			await interaction.reply("No sub command was used");
