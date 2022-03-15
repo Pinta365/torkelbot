@@ -2,32 +2,31 @@
     {   
         "discord_id": "213239148998426625",
         "fortnite_username": "Pintapoff",
-        "fortnite_account_id": "1db7e1b251a94402acc3633c38c2d80d",
-        "fortnite_platform": "epic"        
+        "fortnite_account_id": "1db7e1b251a94402acc3633c38c2d80d"    
     },
     {   
         "discord_id": "417756766873452545",
         "fortnite_username": "Twomonkies",
-        "fortnite_account_id": "fb42624db2354f5c9b6dfedfda6621af",
-        "fortnite_platform": "epic"
+        "fortnite_account_id": "fb42624db2354f5c9b6dfedfda6621af"
     },
     {
         "discord_id": "615973939675660328",
         "fortnite_username": "Kalle-med_K",
-        "fortnite_account_id": "75eadfdf3ead432a853abc3a9963f05a",
-        "fortnite_platform": "psn"
+        "fortnite_account_id": "75eadfdf3ead432a853abc3a9963f05a"
     },
     {
         "discord_id": "428994610627477527",
         "fortnite_username": "Baalzevul",
-        "fortnite_account_id": "5f52d0f80cd74b718e218847609d280c",
-        "fortnite_platform": "epic"
+        "fortnite_account_id": "5f52d0f80cd74b718e218847609d280c"
     },
     {
         "discord_id": "294454883078373377",
         "fortnite_username": "Elmeholt",
-        "fortnite_account_id": "f1ed589c7bd1474084ec99d56ae417a8",
-        "fortnite_platform": "xbl"
+        "fortnite_account_id": "f1ed589c7bd1474084ec99d56ae417a8"
+    },
+    {   "discord_id": "802150419354484787",
+        "fortnite_username": "H3x4600n",
+        "fortnite_account_id": "a5636cce6198466ab62033cc62083bcf"
     }
 
 ]
